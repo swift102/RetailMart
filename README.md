@@ -99,5 +99,4 @@ RetailMart/
 
 ### 🧩 Purpose
 
-This repository demonstrates **end-to-end SQL analytics** —  
-from **data modeling** and **query logic** to **KPI computation** — designed for analysts, data engineers, and anyone aiming to showcase **real-world SQL proficiency**.
+This repository demonstrates **end-to-end SQL analytics** —  from **data modeling** and **query logic** to **KPI computation** — designed for analysts, data engineers, and anyone aiming to showcase **real-world SQL proficiency**.
